@@ -1,0 +1,70 @@
+body {
+    padding-left: 100px;
+  
+  }
+  
+  .rectangle {
+    height: 599px;
+    width: 690px;
+     border: 10px solid;
+  }
+  
+   #innerdiv, ul{
+     padding-left: 70px;
+     display: flex;
+     font-size: 20px;
+     background-color: blue;
+     font-weight: bold;
+     
+    }
+  
+  
+  
+  hr {
+     
+     width: 99%;
+     text-align: left;
+      margin-left: 0;
+     
+     }
+  
+  h4 {
+     padding-top:150px;
+     
+     padding-left: 100px;
+  }
+  
+  h6{ 
+    padding-left: 100px;
+   }
+  
+  p {
+     
+     font-size: 12px;
+     padding-left: 30px;
+     font-style: italic; 
+     font-color: grey;  
+  }
+  
+  img {
+    float: right;
+    border: 1px  black;
+    margin: 0px 0px 15px 20px;
+    padding-right: 70px;
+  }
+  
+  .button, .button{
+  padding-left: 90px;
+  padding-top: 10px;
+  margin-left: 5px;
+   
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  
+  
+  
+  
+  
+  
