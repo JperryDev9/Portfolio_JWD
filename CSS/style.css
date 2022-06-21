@@ -1,0 +1,33 @@
+body {
+  background: linear-gradient(
+    103.9deg,
+    rgb(12, 166, 180) 3%,
+    rgb(100, 51, 161) 93.9%
+  );
+}
+.a {
+  text-align: center;
+}
+
+.row {
+  border: 1.5px solid grey;
+  padding: 2px;
+  margin:40px;
+}
+
+.b {
+  width: 300;
+  padding: 2px;
+text-align: right;
+  color: grey;
+}
+.p {
+  text-align: right;
+}
+h6 {
+  line-height: 0.1px;
+  color: grey;
+}
+.col {
+  line-height: 0.5px;
+}
